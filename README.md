@@ -1,4 +1,4 @@
-# 🧾 Aplikasi Kasir Sederhana
+# 🧾 Aplikasi Kasir
 
 Aplikasi kasir berbasis web yang dibangun menggunakan PHP, MySQL, dan Bootstrap. Aplikasi ini dirancang untuk membantu pengelolaan transaksi pembelian, data pelanggan, dan stok barang secara efisien dengan antarmuka yang sederhana dan responsif.
 
@@ -33,9 +33,9 @@ Aplikasi kasir berbasis web yang dibangun menggunakan PHP, MySQL, dan Bootstrap.
 - Dashboard
   ![1](https://github.com/user-attachments/assets/73d6f6af-7080-4277-9203-3e3490300ba5)
 - Daftar Pelanggan
-- ![2](https://github.com/user-attachments/assets/953183a6-3d27-475e-ac73-b8bccd765b48)
+ ![2](https://github.com/user-attachments/assets/953183a6-3d27-475e-ac73-b8bccd765b48)
 - Daftar Produk
-- ![3](https://github.com/user-attachments/assets/72330cc5-8af9-43b4-af3f-6d62fe05ff6f)
+ ![3](https://github.com/user-attachments/assets/72330cc5-8af9-43b4-af3f-6d62fe05ff6f)
 - Transaksi Pembelian
   ![4](https://github.com/user-attachments/assets/38af07ed-6bed-4195-b576-202f99abddd2)
 
